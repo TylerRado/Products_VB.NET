@@ -1,0 +1,50 @@
+C:\Users\Room6PC12\documents\visual studio 2010\Projects\PrjRado\PrjRado\obj\x86\Debug\PrjRado.FrmCustomer.resources
+C:\Users\Room6PC12\documents\visual studio 2010\Projects\PrjRado\PrjRado\obj\x86\Debug\PrjRado.FrmProduct.resources
+C:\Users\Room6PC12\documents\visual studio 2010\Projects\PrjRado\PrjRado\obj\x86\Debug\PrjRado.Resources.resources
+C:\Users\Room6PC12\documents\visual studio 2010\Projects\PrjRado\PrjRado\obj\x86\Debug\PrjRado.vbproj.GenerateResource.Cache
+C:\Users\Room6PC12\documents\visual studio 2010\Projects\PrjRado\PrjRado\bin\Debug\PrjRado.exe
+C:\Users\Room6PC12\documents\visual studio 2010\Projects\PrjRado\PrjRado\bin\Debug\PrjRado.pdb
+C:\Users\Room6PC12\documents\visual studio 2010\Projects\PrjRado\PrjRado\bin\Debug\PrjRado.xml
+C:\Users\Room6PC12\documents\visual studio 2010\Projects\PrjRado\PrjRado\obj\x86\Debug\PrjRado.exe
+C:\Users\Room6PC12\documents\visual studio 2010\Projects\PrjRado\PrjRado\obj\x86\Debug\PrjRado.xml
+C:\Users\Room6PC12\documents\visual studio 2010\Projects\PrjRado\PrjRado\obj\x86\Debug\PrjRado.pdb
+G:\PrjRado\PrjRado\obj\x86\Debug\PrjRado.exe
+G:\PrjRado\PrjRado\obj\x86\Debug\PrjRado.xml
+G:\PrjRado\PrjRado\obj\x86\Debug\PrjRado.pdb
+G:\PrjRado\PrjRado\bin\Debug\PrjRado.exe
+G:\PrjRado\PrjRado\bin\Debug\PrjRado.pdb
+G:\PrjRado\PrjRado\bin\Debug\PrjRado.xml
+G:\PrjRado\PrjRado\obj\x86\Debug\PrjRado.FrmCustomer.resources
+G:\PrjRado\PrjRado\obj\x86\Debug\PrjRado.FrmProduct.resources
+G:\PrjRado\PrjRado\obj\x86\Debug\PrjRado.Resources.resources
+G:\PrjRado\PrjRado\obj\x86\Debug\PrjRado.vbproj.GenerateResource.Cache
+D:\PrjRado\PrjRado\obj\x86\Debug\PrjRado.exe
+D:\PrjRado\PrjRado\obj\x86\Debug\PrjRado.xml
+D:\PrjRado\PrjRado\obj\x86\Debug\PrjRado.pdb
+D:\PrjRado\PrjRado\bin\Debug\PrjRado.exe
+D:\PrjRado\PrjRado\bin\Debug\PrjRado.pdb
+D:\PrjRado\PrjRado\bin\Debug\PrjRado.xml
+D:\PrjRado\PrjRado\obj\x86\Debug\PrjRado.FrmCustomer.resources
+D:\PrjRado\PrjRado\obj\x86\Debug\PrjRado.FrmProduct.resources
+D:\PrjRado\PrjRado\obj\x86\Debug\PrjRado.Resources.resources
+D:\PrjRado\PrjRado\obj\x86\Debug\PrjRado.vbproj.GenerateResource.Cache
+C:\Users\T.RADORRR\Videos\PrjRado\PrjRado\obj\x86\Debug\PrjRado.exe
+C:\Users\T.RADORRR\Videos\PrjRado\PrjRado\obj\x86\Debug\PrjRado.xml
+C:\Users\T.RADORRR\Videos\PrjRado\PrjRado\obj\x86\Debug\PrjRado.pdb
+C:\Users\T.RADORRR\Videos\PrjRado\PrjRado\bin\Debug\PrjRado.exe
+C:\Users\T.RADORRR\Videos\PrjRado\PrjRado\bin\Debug\PrjRado.pdb
+C:\Users\T.RADORRR\Videos\PrjRado\PrjRado\bin\Debug\PrjRado.xml
+C:\Users\T.RADORRR\Videos\PrjRado\PrjRado\obj\x86\Debug\PrjRado.FrmCustomer.resources
+C:\Users\T.RADORRR\Videos\PrjRado\PrjRado\obj\x86\Debug\PrjRado.FrmProduct.resources
+C:\Users\T.RADORRR\Videos\PrjRado\PrjRado\obj\x86\Debug\PrjRado.Resources.resources
+C:\Users\T.RADORRR\Videos\PrjRado\PrjRado\obj\x86\Debug\PrjRado.vbproj.GenerateResource.Cache
+C:\Users\T.RADORRR\Documents\PrjRado\PrjRado\obj\x86\Debug\PrjRado.exe
+C:\Users\T.RADORRR\Documents\PrjRado\PrjRado\obj\x86\Debug\PrjRado.xml
+C:\Users\T.RADORRR\Documents\PrjRado\PrjRado\obj\x86\Debug\PrjRado.pdb
+C:\Users\T.RADORRR\Documents\PrjRado\PrjRado\bin\Debug\PrjRado.exe
+C:\Users\T.RADORRR\Documents\PrjRado\PrjRado\bin\Debug\PrjRado.pdb
+C:\Users\T.RADORRR\Documents\PrjRado\PrjRado\bin\Debug\PrjRado.xml
+C:\Users\T.RADORRR\Documents\PrjRado\PrjRado\obj\x86\Debug\PrjRado.FrmCustomer.resources
+C:\Users\T.RADORRR\Documents\PrjRado\PrjRado\obj\x86\Debug\PrjRado.FrmProduct.resources
+C:\Users\T.RADORRR\Documents\PrjRado\PrjRado\obj\x86\Debug\PrjRado.Resources.resources
+C:\Users\T.RADORRR\Documents\PrjRado\PrjRado\obj\x86\Debug\PrjRado.vbproj.GenerateResource.Cache
